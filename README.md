@@ -225,8 +225,6 @@ A **real-time messaging platform** featuring:
 ## 📚 What I'm Currently Learning
 
 - Advanced System Design Patterns
-- Kubernetes & Container Orchestration
-- GraphQL APIs
 - Cloud Platforms (AWS, GCP)
 - Advanced Microservices Patterns
 - Message Queue Systems
@@ -235,12 +233,7 @@ A **real-time messaging platform** featuring:
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com) — Let's connect!
-- **Email:** your.email@example.com — Reach out anytime
-- **Portfolio:** [your-portfolio-link.com](https://example.com) — View my work
-- **GeeksForGeeks:** [GeeksForGeeks Profile](https://www.geeksforgeeks.org) — 450+ problems solved
-- **LeetCode:** [LeetCode Profile](https://www.leetcode.com) — 300+ problems solved
-- **CodeChef:** [CodeChef Profile](https://www.codechef.com) — 3-Star programmer
+- **Email:** hemantkrsaw291@gmail.com — Reach out anytime
 
 ---
 
@@ -279,7 +272,6 @@ Feel free to reach out for:
 ✅ **Full-Stack Capability** — End-to-end development from frontend to database
 ✅ **Problem Solving** — Data structures, algorithms, and optimization
 ✅ **Code Quality** — Clean code practices, SOLID principles, design patterns
-✅ **Cloud & DevOps** — Docker, CI/CD, deployment readiness
 ✅ **Performance Optimization** — Caching strategies, query optimization, concurrency handling
 
 ---
